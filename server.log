@@ -1,0 +1,13 @@
+nohup: ignoring input
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1791222408.020813   18207 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+I0000 00:00:1791222408.068884   18207 cpu_feature_guard.cc:227] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: AVX2 FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+WARNING: All log messages before absl::InitializeLog() is called are written to STDERR
+I0000 00:00:1791222409.877888   18207 cudart_stub.cc:31] Could not find cuda drivers on your machine, GPU will not be used.
+INFO:     Started server process [18207]
+INFO:     Waiting for application startup.
+INFO:     Application startup complete.
+ERROR:    [Errno 98] error while attempting to bind on address ('0.0.0.0', 8000): [errno 98] address already in use
+INFO:     Waiting for application shutdown.
+INFO:     Application shutdown complete.
